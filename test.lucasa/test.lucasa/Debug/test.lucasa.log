@@ -1,0 +1,14 @@
+﻿  source.cpp
+c:\users\alice\source\repos\test.lucasa\test.lucasa\source.cpp(18): warning C4244: "inicjowanie": konwersja z "unsigned __int64" do "double", możliwa utrata danych
+c:\users\alice\source\repos\test.lucasa\test.lucasa\source.cpp(33): warning C4244: "inicjowanie": konwersja z "unsigned __int64" do "int", możliwa utrata danych
+c:\users\alice\source\repos\test.lucasa\test.lucasa\source.cpp(34): warning C4244: "argument": konwersja z "unsigned __int64" do "int", możliwa utrata danych
+c:\users\alice\source\repos\test.lucasa\test.lucasa\source.cpp(37): warning C4244: "=": konwersja z "unsigned __int64" do "int", możliwa utrata danych
+c:\users\alice\source\repos\test.lucasa\test.lucasa\source.cpp(42): warning C4244: "inicjowanie": konwersja z "unsigned __int64" do "int", możliwa utrata danych
+c:\users\alice\source\repos\test.lucasa\test.lucasa\source.cpp(43): warning C4244: "argument": konwersja z "unsigned __int64" do "int", możliwa utrata danych
+c:\users\alice\source\repos\test.lucasa\test.lucasa\source.cpp(46): warning C4244: "=": konwersja z "unsigned __int64" do "int", możliwa utrata danych
+c:\users\alice\source\repos\test.lucasa\test.lucasa\source.cpp(62): warning C4244: "argument": konwersja z "unsigned __int64" do "unsigned int", możliwa utrata danych
+c:\users\alice\source\repos\test.lucasa\test.lucasa\source.cpp(63): warning C4244: "argument": konwersja z "unsigned __int64" do "unsigned int", możliwa utrata danych
+c:\users\alice\source\repos\test.lucasa\test.lucasa\source.cpp(79): warning C4244: "inicjowanie": konwersja z "double" do "int", możliwa utrata danych
+c:\users\alice\source\repos\test.lucasa\test.lucasa\source.cpp(76): warning C4101: "e": lokalna zmienna, do której nie istnieje odwołanie
+c:\users\alice\source\repos\test.lucasa\test.lucasa\source.cpp(75): warning C4101: "d": lokalna zmienna, do której nie istnieje odwołanie
+  test.lucasa.vcxproj -> C:\Users\Alice\source\repos\test.lucasa\Debug\test.lucasa.exe
